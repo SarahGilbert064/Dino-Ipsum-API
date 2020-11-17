@@ -1,6 +1,7 @@
-# TODO
+# Dino Ipsum API
 
-### Created by Sarah Gilbert
+### Created by Sarah Gilbert and Tawnee Harris
+### 11.17.2020
 
 ## Description
 
@@ -20,16 +21,16 @@
 
 #### View Online
 
-* Follow this link https://sarahgilbert064.github.io/TODO
+* Follow this link https://github.com/SarahGilbert064/Dino-Ipsum-API.git
 
   
 #### Open Locally
 
-1. Navigate to https://github.com/SarahGilbert064/TODO
+1. Navigate to https://github.com/SarahGilbert064/Dino-Ipsum-API.git
 
 2. Click on the green "Code" button and copy the repository HTTPS URL
 
-3. Open your machine terminal and use the command 'git clone https://github.com/SarahGilbert064/TODO in the directory you would like to clone the repository
+3. Open your machine terminal and use the command 'git clone https://github.com/SarahGilbert064/Dino-Ipsum-API.git' in the directory you would like to clone the repository
 
 4. Another option is to click "Download Zip" and open the file on your machine.
 
@@ -41,7 +42,7 @@
 #### No known bugs
 
 ## Support and Contact Details
-* Contact me at sarahgilbert064@gmail.com
+* Contact me at sarahgilbert064@gmail.com, or Tawnee at tawneeh@icloud.com
 
 ## Technologies Used
 * HTML
@@ -54,5 +55,5 @@
 * Babel
 
 ## Legal
-#### Copyright (c) 2020 Sarah Gilbert
+#### Copyright (c) 2020 Sarah Gilbert and Tawnee Harris
 #### This software is licensed under the MIT license

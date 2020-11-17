@@ -1,0 +1,19 @@
+body {
+  background-image: url(https://i.imgur.com/QMegyc1.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: lightblue;
+}
+
+.container {
+  display: inline block;
+  position: relative;
+  top: 60px;
+}
+
+.showDino {
+  font-style: italic;
+  font-size: 25px;
+  position: relative;
+  top: 20px;
+}
