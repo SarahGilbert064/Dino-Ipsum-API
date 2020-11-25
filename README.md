@@ -5,23 +5,13 @@
 
 ## Description
 
-##### TODO
-
-
-## Specifications
-
-  | Test | Input | Output |
-  | :-------------------- | :------------------------------------- | :-------------------------- |
-  | TODO Function |||
-  | TODO | TODO | TODO |
-
-
+##### This webpage was created to help us get practice working with and calling on API's. 
 
 ## Setup Instruction
 
 #### View Online
 
-* Follow this link https://github.com/SarahGilbert064/Dino-Ipsum-API.git
+* Follow this link https://github.com/SarahGilbert064/Dino-Ipsum-API
 
   
 #### Open Locally
